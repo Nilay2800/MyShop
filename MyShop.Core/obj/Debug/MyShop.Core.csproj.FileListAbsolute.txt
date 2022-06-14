@@ -1,0 +1,12 @@
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.AssemblyReference.cache
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll.config
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\bin\Debug\EntityFramework.dll
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\bin\Debug\EntityFramework.xml
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AIL138\source\repos\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CopyComplete

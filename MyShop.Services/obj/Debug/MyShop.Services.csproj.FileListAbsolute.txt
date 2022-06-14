@@ -1,0 +1,10 @@
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.AssemblyReference.cache
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\bin\Debug\MyShop.Core.pdb
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll.config
+C:\Users\AIL138\source\repos\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete
